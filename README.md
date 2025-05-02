@@ -49,15 +49,6 @@ Here are a few things I’m working on:
 - [X ](http://x.com/SagarThinks)
 - [Newsletter – Dhokla Express](http://dhokla-express.beehiiv.com/)
 
----
-
-## 🔗 Pinned Projects
-
-<!-- You can use GitHub Readme Stats or a GitHub Action to automate this -->
-
-[![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=Sagar-py&repo=aethra-django)](https://github.com/Sagar-py/aethra-django)
-[![Rust Playground](https://github-readme-stats.vercel.app/api/pin/?username=Sagar-py&repo=rust-playground)](https://github.com/Sagar-py/rust-playground)
-
 
 
 <!--
