@@ -37,7 +37,7 @@ Here are a few things I’m working on:
 
 ## 📈 Current Focus
 
-- Learning Django from scratch and shipping real-world tools.
+- Janus Bot: LinkedIn job scraper.
 - Building systems for introspection, self-coaching, and long-term growth.
 - Exploring how decentralized AI can reshape education and wellness.
 
